@@ -1,0 +1,30 @@
+Proyecto: P. Identificador de proyecto, Nombre,Cliente, Descripción breve, Estado, Fecha inicio prevista, Fecha fin prevista, Estimación horas, Fecha inicio real, Fecha fin real, Numero horas reales, Presupuesto.
+
+Gastos: P. Identificador, Fecha, Descripción. 
+
+Fase: P. Número Identificador, Fecha inicio prevista, Fecha foin prevista, Fecha inicion real, Fecha fin real, Estado. 
+
+Entregable: P. Identificador, Descripción, Estado, Fases técnico
+
+Recursos hardware: P: Identificador interno, Nombre, Descripción, Tipo, Fecha inicion asignación, Fecha final de asignación. 
+
+Empleado:  P. Número de empleado, DNI, Nombre, Apellidos, Nivel Profesional
+
+Jefe de proyecto: P: Número de empleado  Dedicación horas prevista, Coste previsto, Horas reales, Coste real, Proyecto. 
+
+Analista: Ámbitos funcionales.
+ 
+Programador: Tecnologías.
+
+- 
+
+Empleado / Técnico : F. Número de empleado, F. Número de empleado.
+
+Técnico / Analista: F. Número de empleado, F. Ámbitos funcionales. 
+
+Técnico / Programador: Tecnologías.  
+
+Recursos hardware / Fase: F. Identificador interno, F: Número identificador. 
+
+
+
